@@ -1,0 +1,29 @@
+================================================================
+                    C LANGUAGE - EXERCISE
+================================================================
+
+ 1. Input three numbers and print the greatest number.
+
+ 2. Input age and check whether it is zero or non-zero.
+
+ 3. Input marks and print "Pass" if marks are above 35,
+    otherwise print "Fail".
+
+ 4. Input marks and display the grade using the given rules.
+
+ 5. Check whether the given number is positive or negative.
+
+ 6. Write a program to calculate and display the area of a
+    circle using the given radius.
+
+ 7. Write a program to calculate and display meters and the
+    remaining feet from the given feet.
+
+ 8. Write a program to calculate and display simple interest
+    from the given amount, rate and years.
+
+ 9. Print numbers from 10 to 1 in reverse order. (using while loop)
+
+10. Print the square of numbers from 1 to 10. (using while loop)
+
+================================================================
