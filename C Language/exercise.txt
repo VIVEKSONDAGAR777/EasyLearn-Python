@@ -24,4 +24,4 @@
 
 10. Print the square of numbers from 1 to 10. (using while loop)
 
-================================================================
+
